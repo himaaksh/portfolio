@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(50, 49, 49);
+}
+
+.body{
+    display: flex;
+    justify-content: center;
+}
+
+.ub{
+    width: 1080px;
+    justify-content: center;
+    background-color: #ff6f00;
+
+}
+
+.ub h1{
+    color: white;
+}
